@@ -73,6 +73,7 @@ jobs:
         auth-type: IDENTITY
         tenant-id: ${{ secrets.AZURE_TENANTID }}
         subscription-id: ${{ secrets.AZURE_SUBSCRIPTIONID }}
+        enable-AzPSSession: true
 
     # Azure CLI action only supports linux self-hosted runners for now.
     # If you want to execute the Azure CLI script on a windows self-hosted runner, you can execute it directly in `run`.
