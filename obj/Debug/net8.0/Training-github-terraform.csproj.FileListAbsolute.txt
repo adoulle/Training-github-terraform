@@ -1,0 +1,8 @@
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.AssemblyInfoInputs.cache
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.AssemblyInfo.cs
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.csproj.CoreCompileInputs.cache
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.MvcApplicationPartsAssemblyInfo.cache
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.RazorAssemblyInfo.cache
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.RazorAssemblyInfo.cs
+C:\Enablon\Training-github-terraform\obj\Debug\net8.0\Training-github-terraform.sourcelink.json
