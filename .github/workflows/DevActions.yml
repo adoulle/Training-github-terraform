@@ -71,7 +71,6 @@ jobs:
       with:
         auth-type: IDENTITY
         tenant-id: ${{ secrets.AZURE_TENANTID }}
-        client-id: ${{ secrets.AZURE_CLIENTID }}
         subscription-id: ${{ secrets.AZURE_SUBSCRIPTIONID }}
         enable-AzPSSession: true
 
